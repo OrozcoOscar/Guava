@@ -1,0 +1,27 @@
+*{
+
+ --color-1: #F24B59; 
+ --color-2: #F27289; 
+ --color-3: #668C3F; 
+--color-4: #B0D959; 
+--color-5: #F2F2F2; 
+--color-scroll:var(--color-4);
+--w-scroll:7px;
+--btn-color:var(--color-2);
+--btn-bg-c:white;
+    
+}
+/*
+ @font-face {
+      font-family:"";
+      src:url(.ttf);
+  } 
+  @font-face {	  
+      font-family:"";
+      src:url(.ttf);
+    } 
+ @font-face {
+ 	  
+      font-family:"";
+      src:url(.ttf);
+    } */
